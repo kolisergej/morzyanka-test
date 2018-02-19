@@ -1,0 +1,7 @@
+1) For running, create database “test”, with running on 5432 port postgres (without password)
+2) Run script in database/init_db.sql
+3) npm install
+4) npm run front_prod
+5) npm run srv_prod
+
+Before start, be sure 3000 port is free
